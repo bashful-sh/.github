@@ -4,10 +4,11 @@
 
 Click any of these links to go to the resource.
 
-- [Introduction](https://github.com/bashful-sh/bashful)
+- [Introduction](https://github.com/bashful-sh)
 - [Install & Download](https://bashful-sh.github.io/)
 - [Basic Usage](https://github.com/bashful-sh/bashful/wiki)
 - [Advanced Usage](https://github.com/bashful-sh/bashful/wiki)
+- [View Source Code](https://github.com/bashful-sh/bashful)
 
 ### Introduction
 
@@ -19,4 +20,8 @@ Go to [bashful-sh.github.io](https://bashful-sh.github.io/) and follow the instr
 
 ### Basic and Advanced Usage
 
-Go to [the wiki](https://github.com/bashful-sh/bashful/wiki) for basic and advanced documentation.
+Go to [the github wiki](https://github.com/bashful-sh/bashful/wiki) for basic and advanced documentation.
+
+### View, Edit & Contribute Source Code
+
+Go to [the github repository](https://github.com/bashful-sh/bashful) and checkout the 'DEV' branch to create a pull request.
